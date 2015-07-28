@@ -1,6 +1,6 @@
 {
   "name": "react-image-blur",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A React component to blur image by canvas",
   "main": "src/index.js",
   "scripts": {

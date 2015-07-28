@@ -2,6 +2,8 @@
 
 A React component to blur image by canvas
 
+[DEMO](http://lingyucoder.github.io/react-image-blur/demo/demo.html)
+
 ## Install
 
 ```bash
